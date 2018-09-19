@@ -1,6 +1,21 @@
 # MIT.Intro.To.CS.Python
 MIT.Intro.To.CS.Python: Introduction to Computer Science and Programming in Python on MIT OCW(Open Course Ware)
 
+# Course Slides Table 课程课件表格
+[Lecture Slides and Code](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/lecture-slides-code/)  
+1   What is computation?    Slides for Lecture 1 (PDF)  
+2   Branching and Iteration Slides for Lecture 2 (PDF)  Code for Lecture 2 (PY)  
+3   String Manipulation, Guess and Check, Approximations, Bisection Slides for Lecture 3 (PDF)  Code for Lecture 3 (PY)  
+
+# Brieves of Lecture Slides 
+## Lec 1
+TODO
+
+## Lec 2
+
+## Lec 3
+
+
 # ps0
 
 # ps1
